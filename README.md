@@ -8,7 +8,7 @@
 
 ## Usage
 * clone this repository ``` git clone https://github.com/dertrockx/qREMS.git ```
-* __using virtualenvironemnts__
+* __using virtualenvironments__
    * do ``` pip install -r requirements.txt ```
 * Using pipenv
    * do ``` pipenv install -r requirements.txt ```
